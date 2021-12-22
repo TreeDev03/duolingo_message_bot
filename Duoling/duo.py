@@ -5,8 +5,8 @@ from selenium.webdriver.common.by import By
 
 from Duoling import constants as const
 
-
-username = input("Whats Your Username: ")
+print("You might have to run script twice incase of error\n")
+username = input("\nWhats Your Username: ")
 password = input("Whats Your Password: ")
 title2 = input("Enter Title: ")
 message = input("Enter message: ")
