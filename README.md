@@ -6,3 +6,12 @@ A Bot to write multiple messages in Duolingo.
 
  ## How To Run
 In your <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands">command prompt</a> change directy to where your project file is loacted and type python running.py enter your information and watch it work. You might need to run the script twice.  
+  ## Documentation
+ <br>
+ 
+ <br>
+ * <a href="https://selenium-python.readthedocs.io/">Selenium</a>
+ * <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands">command prompt</a>
+ * <a href="https://www.python.org/">Python</a>
+ 
+ 
